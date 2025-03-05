@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlvinSUDHAN
+- 👋 Hi, I’m @Alvinsudhan
 - 👀 I’m interested in ...TRADING
 - 🌱 I’m currently learning ...CODING
 - 💞️ I’m looking to collaborate on....
