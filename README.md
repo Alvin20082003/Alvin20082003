@@ -1,8 +1,8 @@
 # 💫 About Me:
 👋 Hi, I’m @AlvinSudhan<br>🚀 Tech & Finance Enthusiast | AI & Forex Trader<br>👀 Passionate about AI, ML, and Automated Trading<br>🌱 Currently diving deep into Machine Learning & Algorithmic Trading<br>💡 Open to collaborations on AI-driven innovations & financial automation<br>🎯 Building a secure, location-based student attendance system with ERP integration<br>📫 Connect with me: @alvinsudhan_20
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alvin20082003/Alvin20082003r/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alvin20082003/Alvin20082003r/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
