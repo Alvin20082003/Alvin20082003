@@ -1,6 +1,10 @@
 # 💫 About Me:
 👋 Hi, I’m @AlvinSudhan<br>🚀 Tech & Finance Enthusiast | AI & Forex Trader<br>👀 Passionate about AI, ML, and Automated Trading<br>🌱 Currently diving deep into Machine Learning & Algorithmic Trading<br>💡 Open to collaborations on AI-driven innovations & financial automation<br>🎯 Building a secure, location-based student attendance system with ERP integration<br>📫 Connect with me: @alvinsudhan_20
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/alvindvk) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1Nbug3sdJG/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@alvinsudhan_20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/alvin-sudhan-bb66aa228) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/alvinofficial646) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alvinofficial646@gmail.com) 
@@ -24,10 +28,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Alvin20082003&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
