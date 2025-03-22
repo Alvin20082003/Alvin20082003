@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m @AlvinSudhan<br>🚀 Tech & Finance Enthusiast | AI & Forex Trader<br>👀 Passionate about AI, ML, and Automated Trading<br>🌱 Currently diving deep into Machine Learning & Algorithmic Trading<br>💡 Open to collaborations on AI-driven innovations & financial automation<br>🎯 Building a secure, location-based student attendance system with ERP integration<br>📫 Connect with me: @alvinsudhan_20
 <!-- GitHub Profile Header -->
+<!-- GitHub Profile Header -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Alvin20082003/Alvin20082003/output/github-snake-dark.svg#gh-dark-mode-only" />
   <img src="https://raw.githubusercontent.com/Alvin20082003/Alvin20082003/output/github-snake.svg#gh-light-mode-only" />
@@ -28,10 +29,20 @@
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
 
 ---
@@ -81,6 +92,9 @@
 </p>
 
 ---
+
+<!-- Created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 <!-- Created with GPRM ( https://gprm.itsvg.in ) -->
 
